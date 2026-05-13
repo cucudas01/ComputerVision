@@ -34,3 +34,15 @@ Thumbs.db
 
 # User-specific files
 .env
+
+
+# 실행 결과 폴더 제외
+runs/
+
+# 샘플 영상 파일 제외
+sample.mp4
+
+# (추가 권장) 파이썬 가상환경 및 캐시 제외
+.venv/
+__pycache__/
+*.pt
